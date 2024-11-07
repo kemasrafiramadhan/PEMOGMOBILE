@@ -5,7 +5,7 @@
 # Kelas  : Ti.23.A4
 
 # STORYBOARD
-![img 1](Screenshot (108).png)
+![img 1](Screenshot(108).png)
 # MOCKUP 3D
 ![img 2](Screenshot (103).png)
 # UI DESIGN
